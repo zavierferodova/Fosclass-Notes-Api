@@ -271,10 +271,10 @@ fosclass-notesapi
     "message": "Note created successfully",
     "data": {
         "id": "42362a8e-1141-464b-8a27-f993dcdde5d5",
-        "title": "My Note",
-        "content": "This is my first note",
+        "title": "Updated note title",
+        "content": "This is updated note content",
         "createdAt": "2023-11-28T10:07:04.274Z",
-        "updatedAt": "2023-11-28T10:07:04.274Z"
+        "updatedAt": "2023-11-28T10:08:00.000Z"
     }
   }
   ```
