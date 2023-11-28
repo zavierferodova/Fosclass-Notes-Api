@@ -2,6 +2,7 @@
 Simple CRUD notes app with MySQL Database Fosclass Programming Final Submission.
 
 **Content**
+- [Instruction](#Instruction)
 - [Setup](#Setup)
 - [Project Structure](#Project-Structure)
 - [Request and Responses](#Request-and-Responses)
