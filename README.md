@@ -267,8 +267,8 @@ fosclass-notesapi
   **Response :**
   ```json
   {
-    "status": 201,
-    "message": "Note created successfully",
+    "status": 200,
+    "message": "Note updated successfully",
     "data": {
         "id": "42362a8e-1141-464b-8a27-f993dcdde5d5",
         "title": "Updated note title",
